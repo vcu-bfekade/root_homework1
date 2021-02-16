@@ -31,10 +31,10 @@ def return_without_starting_ending_whitespace(input_string):
     return input_string.strip()
 
 
-def return_addition(x, y):
+def return_addition(first_number, second_number):
     """ Return the two numbers added together. """
 
-    x = 3
-    y = 2
-    return_value = x + y
+    first_number = 1
+    second_number = 2
+    return_value = first_number + second_number
     return return_value
