@@ -36,4 +36,5 @@ def return_addition(first_number, second_number):
 
     first_number = 1
     second_number = 2
-    return first_number + second_number
+    return_value = first_number + second_number
+    return return_value
